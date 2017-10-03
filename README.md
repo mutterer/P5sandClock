@@ -1,17 +1,14 @@
-# modified from:
+# P5 Sand Clock:
 
-# Nature of Code: 5.18 Introduction to matter.js
+I just slightly modified the excellent example script from: "Nature of Code: 5.18 Introduction to matter.js"
 
-This is the repo for [Introduction to matter.js](https://www.youtube.com/watch?v=uITcoKpbQq4)
+* A smaller ball is released for every new displayed frame.
+* A larger ball is released about every second.
+* Larger balls have some randomness in their size, so that in the end, time appears flow at varying rate.
+
+# Credit
 
 Ride along with *Daniel Shiffman* on the Coding Train to learn how to use [matter.js](http://brm.io/matter-js/index.html) with [p5](https://p5js.org) in JavaScript.
-
-# Examples from the *Community*
-
--O [matterTank](http://codepen.io/RedHenDev/full/dvWZme/) -- by Brian New ([@HenRed](https://twitter.com/HenRed))
-
-*(Why not copy in your own example here? You can deploy your work to [CodePen](http://codepen.io), for example :) Simply copy and paste the above community entry, changing the details.)*
-
 
 # Support
 
